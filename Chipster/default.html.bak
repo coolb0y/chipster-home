@@ -1,0 +1,103 @@
+﻿<!doctype html>
+<html lang="en-US" >
+
+<head>
+<title>Chipster Personal Library</title>
+<link rel="stylesheet" href="http://chipster/css/chipster.css">
+<link rel="stylesheet" href="http://chipstersearch/css/styles.css">
+<link rel="search" type="application/opensearchdescription+xml" title="Chipster Search" href="http://chipstersearch/chipstersearch.xml">
+</head>
+
+<body>
+
+<div>
+<table align="center" cellpadding="0" cellspacing="0" style="width: 750px">
+	<tr>
+		<td class="WebSite2">
+		
+	<!-- Search -->
+	<div class="search-container">
+		<img src="http://chipstersearch/images/search.svg" class="search-logo uil uil-search"></img>
+		<input type="text" id="search-input" placeholder="Search..." oninput="searchOpensearch()" onkeyup="handleSearch(event)">
+		<img src="http://chipstersearch/images/close.svg" class="search-close uil uil-times hidden"></img>
+		<div id="results"></div>
+		<a href="localhost:9000" style="color: #FFFFFF">Advanced Search</a></strong></p>
+	  </div>
+	 <script src="http://chipstersearch/scripts/searchbar.js"></script>
+	<!-- Search End -->
+
+<img src="images/ChipsterWebLogo.png" width="750"; height="195" ><br>&nbsp;<br>
+		<table cellpadding="10" cellspacing="0" class="Banner" style="width: 100%">
+			<tr>
+				<td>
+				<p class="BannerText">This <b>Chipster Demo</b> flash drive is a sample of what's possible to share in a 
+				Chipster Personal Library.</p>
+				<p class="BannerText">What would you put in <u>your</u> custom Chipster collection?&nbsp; We can help you create your 
+				own Chipster.</p>
+				<p class="BannerText"><strong> <a href="customchipster.html" style="color: #FFFFFF">
+				Read more...</a></strong></p>
+				</td>
+			</tr>
+		</table>
+		<br>
+
+	<div class="WebSite2">
+	
+	<!-- Chipster Content Links --> 	
+		<p class="WebSite"><a href="http://school.wikipedia.org">Wikipedia for Schools</a>
+		<span class="SiteDescription"><br>A collection of Wikipedia articles curated for secondary schools by SOS Children </span> </p>
+		
+		<p class="WebSite"><a href="http://chem.vt.edu/">Chemistry Hypermedia Project</a>
+		<span class="SiteDescription"><br>Web resources for students, educators, and scientists. </span> </p>
+		
+		<p class="WebSite"><a href="http://wellspringafrica.org">Wellspring Africa</a>
+		<span class="SiteDescription"><br>Resources for rural water development focusing on small-scale artisinal drillers and appropriate technology.</span></p>
+		
+		<p class="WebSite"><a href="http://w3schools.com">w3schools</a><br>
+		<span class="SiteDescription">Tutorials and reference materials for computer programmers and Web designers.</span>&nbsp;</p>
+		
+		<p class="WebSite"><a href="http://Movies/Movies.html">Free Movies</a>&nbsp; <span class="SiteDescription"><br>A small sampling of movies.<br></span></p>
+	<!-- End Chipster Content Links --> 	
+	
+	<!-- Footer --> 
+	<hr noshade="noshade"><br>
+	<table id="TwoUpTable" cellpadding="0" cellspacing="0" style="width: 100%">
+		<tr>
+			<td>
+				<p class="WebSite">&nbsp;<a href="images/ChipsterPoliticalWorldMap4000.png">Chipster World Map</a><br>
+				<span class="SiteDescription">World Map with Political Boundaries &nbsp; <br>
+				Also: <a href="images/ChipsterPoliticalWorldMap.pdf"> High-resolution Printable Version</a></span></p>
+				<p><a href="images/ChipsterPoliticalWorldMap4000.png">
+				<img alt="World Map" height="162" src="images/ChipsterPoliticalWorldMapThumb.png" width="250"></a></p>
+			</td>
+			<td>
+				<p class="WebSite"><a href="images/ChipsterPeriodicChart.pdf">Chipster 
+				Periodic Elements Chart</a><br>
+				<span class="SiteDescription">A printable PDF of the periodic elements</span></p>
+				<p><a href="images/ChipsterPeriodicChart.pdf">
+				<img alt="" height="162" src="images/ChipsterPeriodicChartThumb.png" width="250"></a></p>
+			</td>
+		</tr>
+	</table>
+	
+	<br>
+	
+	</div>
+	<hr noshade="noshade">
+
+	<p  style="color:#2e9ce3;" class="Everywhere">
+	<span style="text-align: center; font-weight: 700">Information.<br>Education.<br>Everywhere!</span></p>
+
+	<p>
+
+	<center>
+	<img loading="lazy" src="images/Chippies.png" alt="" style="width: 750; height: 129" >
+	</div>
+		<p class="Copyright">Copyright Chipster.org 2024</p>
+
+		</td>
+	</tr>
+
+</table>
+</div>	  
+</body>

@@ -1,0 +1,73 @@
+﻿
+
+/* Deault font for all pages.  */  
+*{
+font-family:"Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/* unvisited link */
+a:link {
+  color: #0a2233;
+}
+
+/* visited link */
+a:visited {
+  color: #6b1334;
+}
+
+/* mouse over link */
+a:hover {
+  font-weight: 600; 
+}
+
+.WebSite {
+	font-size: medium;
+}
+
+.Everywhere {
+	font-size: x-large;
+	text-align: center;
+}
+
+.Copyright {
+	font-size: x-small;
+	text-align: right;
+}
+
+.WebSite2 {
+	text-align: left;
+}
+
+.SiteDescription {
+	font-size: small;
+}
+
+.Tiny {
+	font-size: x-small;
+		
+}
+
+.Banner {
+	border-top-left-radius: 9px;
+	border-top-right-radius: 9px;
+	border-bottom-right-radius: 9px;
+	border-bottom-left-radius: 9px;
+	background-color: #34A1E4;
+}
+.BannerText {
+	color: #FFFFFF;
+}
+
+.BannerHeader {
+	font-size: x-large;
+	color: #FFFFFF;
+}
+
+
+
+#TwoUpTable td 
+{
+    text-align: center; 
+    vertical-align: middle;
+}
